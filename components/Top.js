@@ -27,7 +27,7 @@ const Top = () => {
                 </div>
                 
                 <div className="md:w-1/2 w-full self-center">    
-                    <Image src={laptop} alt="Black Friday" className="object-contain" layout="responsive"/>
+                    <Image src={laptop} alt="Black Friday" className="object-contain" layout="responsive" priority="true" as="image" />
                 </div>    
             </div>
         </div>
