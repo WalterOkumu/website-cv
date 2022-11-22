@@ -4,10 +4,10 @@ const Descontos = () => {
     return (
         <>
             <section className="mt-32 flex flex-col justify-center items-center mx-auto md:w-1/2 w-full">
-                <h1 className="md:px-0 text-5xl font-bold md:inline-block p-2 rounded-md text-[#070707] text-center">Parceiro que ajuda o seu negócio a competir nos canais digitais</h1> 
-                <p className="mt-5 mb-4 px-10 md:px-0 text-center md:w-96 text-3xl font-light italic">
+                <h2 className="md:px-0 text-5xl font-bold md:inline-block p-2 rounded-md text-[#070707] text-center">Parceiro que ajuda o seu negócio a competir nos canais digitais</h2> 
+                <h3 className="mt-5 mb-4 px-10 md:px-0 text-center md:w-96 text-3xl font-light italic">
                     Casa arrumada tem outra pinta! Aproveite e <span className="font-bold">tenha o seu Web Site</span>
-                </p>
+                </h3>
                 <p className="mt-5 px-10 md:px-0 text-justify leading-relaxed font-medium">
                     Para acompanhar seu público, cada vez mais empresas estão apostando na criação de canais digitais de relacionamento com o cliente.
                 </p>

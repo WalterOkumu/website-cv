@@ -3,7 +3,7 @@ import Script from 'next/script'
 
 export default function Document() {
   return (
-    <Html>
+    <Html lang='pt'>
       <Head>
         <meta name="description" content="Website Landing Page Cabo Verde" />
         <link rel="icon" href="/favicon.ico" />
